@@ -2,6 +2,7 @@
 ## CS Major at Layola Marymount University
 ## Current Classes: Algorithms and Graphics
 ## Currently working on: Final Project for web development! 
+## If you want a sample of my current work, take a look at the Recommendinator or Graphics repositories!
 
 <!--
 **clove10200-hue/clove10200-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
