@@ -1,7 +1,7 @@
 # Chris Love
 ## CS Major at Layola Marymount University
-## Current Classes: Data Structures and Web Development
-## Currently workiog on: Final Project for web development! 
+## Current Classes: Algorithms and Graphics
+## Currently working on: Final Project for web development! 
 
 <!--
 **clove10200-hue/clove10200-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
